@@ -104,7 +104,7 @@ add_ssh_keys_to_agent() {
         # Check if the key is already added to the agent
         ssh-add -l | grep -q "$key" || ssh-add --apple-use-keychain "$key"
     done
-}
+} 
 
 # Function to list GPG keys and prompt for selection
 select_gpg_key() {
