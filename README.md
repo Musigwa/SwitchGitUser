@@ -34,8 +34,8 @@ If you're new to any of these topics, here are some helpful resources:
 - **Git**: [Git Documentation](https://git-scm.com/doc)
 - **Shell Scripting**: [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - **SSH**: [Telling Git about your SSH key](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key)
-- **GPG**: [Git: How to Sign Commit with SSH or GPG Key?](https://wenijinew.medium.com/git-how-to-sign-commit-with-ssh-and-gpg-keys-3a4661beddf5)
-- **Commit Signature**: [Signing Commits with SSH](https://www.git-tower.com/blog/setting-up-ssh-for-commit-signing/)
+- **GPG**: [Git: Generate new GPG Key?](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
+- **Commit Signature**: [Signing Commits with SSH](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
 
 ## Installation
 

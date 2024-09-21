@@ -32,11 +32,9 @@ select_git_account() {
     case $selection in
         1)
             email=$(echo "${accounts[0]}")
-            break
             ;;
         2)
             email=$(echo "${accounts[1]}")
-            break
             ;;
         $((${#accounts[@]} + 1)))
             read -p "Enter the account full name (space separated): " name
